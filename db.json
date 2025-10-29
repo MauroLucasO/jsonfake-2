@@ -4,6 +4,5 @@
     { "id": 2, "nome": "Batata Frita", "preco": 15 },
     { "id": 3, "nome": "Refrigerante", "preco": 8 },
     { "id": 4, "nome": "Suco Natural", "preco": 10 }
-
   ]
 }
