@@ -19,9 +19,9 @@
   ],
   "categoria": [
     { "id": 1, "nome": "Categoria1", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
-    { "id": 2, "nome": "Categoria2", "nomecategoria": "Produto1", "idEstabelecimento": 2 },
-    { "id": 3, "nome": "Categoria3", "nomecategoria": "Produto1", "idEstabelecimento": 3 },
-    { "id": 4, "nome": "Categoria4", "nomecategoria": "Produto1", "idEstabelecimento": 4 }
+    { "id": 2, "nome": "Categoria2", "nomecategoria": "Produto2", "idEstabelecimento": 2 },
+    { "id": 3, "nome": "Categoria3", "nomecategoria": "Produto3", "idEstabelecimento": 3 },
+    { "id": 4, "nome": "Categoria4", "nomecategoria": "Produto4", "idEstabelecimento": 4 }
   ],
   "estoque": [
     { "id": 1, "nome": "Estoque1", "quantidade": "1", "idProduto": 1, "idEstabelecimento": 1 },
