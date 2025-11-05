@@ -18,10 +18,10 @@
     { "id": 4, "nome": "itemPedido4", "quantidade": "1", "valorTotal": "R$0,00", "idProduto": 4 }
   ],
   "categoria": [
-    { "id": 1, "nome": "Categoria1", "idEstabelecimento": 1, "produto": "Produto1"},
-    { "id": 2, "nome": "Categoria2", "idEstabelecimento": 2, "produto": "Produto2"},
-    { "id": 3, "nome": "Categoria3", "idEstabelecimento": 3, "produto": "Produto3"},
-    { "id": 4, "nome": "Categoria4", "idEstabelecimento": 4, "produto": "Produto4"}
+    { "id": 1, "nome": "Categoria1", "idEstabelecimento": 1, "nomecategoria": "Produto1"},
+    { "id": 2, "nome": "Categoria2", "idEstabelecimento": 2, "nomecategoria": "Produto2"},
+    { "id": 3, "nome": "Categoria3", "idEstabelecimento": 3, "nomecategoria": "Produto3"},
+    { "id": 4, "nome": "Categoria4", "idEstabelecimento": 4, "nomecategoria": "Produto4"}
   ],
   "estoque": [
     { "id": 1, "nome": "Estoque1", "quantidade": "1", "idProduto": 1, "idEstabelecimento": 1 },
