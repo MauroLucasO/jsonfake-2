@@ -6,16 +6,16 @@
     { "id": 4, "nome": "Nome4", "valor": "R$0,00", "descricao": "Descrição", "idCategoria": 4 }
   ],
   "pedido": [
-    { "id": 1, "data": "Nome1", "horas": "111111111", "valor": "R$0,00", "idItemPedido": 1, "idEstabelecimento": 1, "idCliente": 1 },
-    { "id": 2, "data": "Nome2", "horas": "111111111", "valor": "R$0,00", "idItemPedido": 2, "idEstabelecimento": 2, "idCliente": 2 },
-    { "id": 3, "data": "Nome3", "horas": "111111111", "valor": "R$0,00", "idItemPedido": 3, "idEstabelecimento": 3, "idCliente": 3 },
-    { "id": 4, "data": "Nome4", "horas": "111111111", "valor": "R$0,00", "idItemPedido": 4, "idEstabelecimento": 4, "idCliente": 4 }
+    { "id": 1, "data": "Nome1", "horas": "111111111", "valor": "R$5,00", "idItemPedido": 1, "idEstabelecimento": 1, "idCliente": 1 },
+    { "id": 2, "data": "Nome2", "horas": "111111111", "valor": "R$0,20", "idItemPedido": 2, "idEstabelecimento": 2, "idCliente": 2 },
+    { "id": 3, "data": "Nome3", "horas": "111111111", "valor": "R$2,00", "idItemPedido": 3, "idEstabelecimento": 3, "idCliente": 3 },
+    { "id": 4, "data": "Nome4", "horas": "111111111", "valor": "R$0,75", "idItemPedido": 4, "idEstabelecimento": 4, "idCliente": 4 }
   ],
   "itemPedido": [
-    { "id": 1, "nome": "itemPedido1", "quantidade": "1", "valorTotal": "R$0,00", "idProduto": 1 },
-    { "id": 2, "nome": "itemPedido2", "quantidade": "1", "valorTotal": "R$0,00", "idProduto": 2 },
-    { "id": 3, "nome": "itemPedido3", "quantidade": "1", "valorTotal": "R$0,00", "idProduto": 3 },
-    { "id": 4, "nome": "itemPedido4", "quantidade": "1", "valorTotal": "R$0,00", "idProduto": 4 }
+    { "id": 1, "nome": "itemPedido1", "quantidade": "1", "valorTotal": "R$5,00", "idProduto": 1 },
+    { "id": 2, "nome": "itemPedido2", "quantidade": "1", "valorTotal": "R$0,20", "idProduto": 2 },
+    { "id": 3, "nome": "itemPedido3", "quantidade": "1", "valorTotal": "R$2,00", "idProduto": 3 },
+    { "id": 4, "nome": "itemPedido4", "quantidade": "1", "valorTotal": "R$0,75", "idProduto": 4 }
   ],
   "categoria": [
     { "id": 1, "nome": "Categoria1", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
