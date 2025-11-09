@@ -1,9 +1,9 @@
 {
   "produto": [
-    { "id": 1, "nome": "Nome1", "valor": "R$0,00", "descricao": "Descrição", "idCategoria": 1 },
-    { "id": 2, "nome": "Nome2", "valor": "R$0,00", "descricao": "Descrição", "idCategoria": 2 },
-    { "id": 3, "nome": "Nome3", "valor": "R$0,00", "descricao": "Descrição", "idCategoria": 3 },
-    { "id": 4, "nome": "Nome4", "valor": "R$0,00", "descricao": "Descrição", "idCategoria": 4 }
+    { "id": 1, "nome": "Nome1", "valor": "R$4,00", "descricao": "Descrição", "idCategoria": 1 },
+    { "id": 2, "nome": "Nome2", "valor": "R$5,00", "descricao": "Descrição", "idCategoria": 2 },
+    { "id": 3, "nome": "Nome3", "valor": "R$3,00", "descricao": "Descrição", "idCategoria": 3 },
+    { "id": 4, "nome": "Nome4", "valor": "R$0,25", "descricao": "Descrição", "idCategoria": 4 }
   ],
   "pedido": [
     { "id": 1, "data": "Nome1", "horas": "111111111", "valor": "R$5,00", "idItemPedido": 1, "idEstabelecimento": 1, "idCliente": 1 },
