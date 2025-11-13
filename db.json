@@ -20,7 +20,7 @@
   "categoria": [
     { "id": 1, "nome": "Sobremesas", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
     { "id": 2, "nome": "Lanches", "nomecategoria": "Produto2", "idEstabelecimento": 2 },
-    { "id": 3, "nome": "Bebidas", "nomecategoria": "Produto3", "idEstabelecimento": 3 },
+    { "id": 3, "nome": "Bebidas", "nomecategoria": "Produto3", "idEstabelecimento": 3 }
   ],
   "estoque": [
     { "id": 1, "nome": "Estoque1", "quantidade": "1", "idProduto": 1, "idEstabelecimento": 1 },
