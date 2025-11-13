@@ -1,9 +1,9 @@
 {
   "produto": [
-    { "id": 1, "nome": "Nome1", "valor": "R$4,00", "descricao": "Descrição", "nomeCategoria": "Sobremesas", "idCategoria": 1 },
-    { "id": 2, "nome": "Nome2", "valor": "R$5,00", "descricao": "Descrição", "nomeCategoria": "Lanches", "idCategoria": 2 },
-    { "id": 3, "nome": "Nome3", "valor": "R$3,00", "descricao": "Descrição", "nomeCategoria": "Bebidas", "idCategoria": 3 },
-    { "id": 4, "nome": "Nome4", "valor": "R$0,25", "descricao": "Descrição", "nomeCategoria": "Bebidas", "idCategoria": 4 }
+    { "id": 1, "nome": "Açaí", "valor": "R$15,00", "descricao": "500ml", "nomeCategoria": "Sobremesas", "idCategoria": 1 },
+    { "id": 2, "nome": "Pizza", "valor": "R$45,00", "descricao": "Tamanho Família", "nomeCategoria": "Lanches", "idCategoria": 2 },
+    { "id": 3, "nome": "Cerveja", "valor": "R$9,00", "descricao": "Petra 1l", "nomeCategoria": "Bebidas", "idCategoria": 3 },
+    { "id": 4, "nome": "Refrigerante", "valor": "R$8,50", "descricao": "Coca-Cola 2l", "nomeCategoria": "Bebidas", "idCategoria": 3 }
   ],
   "pedido": [
     { "id": 1, "data": "Nome1", "horas": "111111111", "valor": "R$5,00", "idItemPedido": 1, "idEstabelecimento": 1, "idCliente": 1 },
@@ -18,10 +18,9 @@
     { "id": 4, "nome": "itemPedido4", "quantidade": "5", "valorTotal": "R$0,75", "idProduto": 4 }
   ],
   "categoria": [
-    { "id": 1, "nome": "Categoria1", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
-    { "id": 2, "nome": "Categoria2", "nomecategoria": "Produto2", "idEstabelecimento": 2 },
-    { "id": 3, "nome": "Categoria3", "nomecategoria": "Produto3", "idEstabelecimento": 3 },
-    { "id": 4, "nome": "Categoria4", "nomecategoria": "Produto4", "idEstabelecimento": 4 }
+    { "id": 1, "nome": "Sobremesas", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
+    { "id": 2, "nome": "Lanches", "nomecategoria": "Produto2", "idEstabelecimento": 2 },
+    { "id": 3, "nome": "Bebidas", "nomecategoria": "Produto3", "idEstabelecimento": 3 },
   ],
   "estoque": [
     { "id": 1, "nome": "Estoque1", "quantidade": "1", "idProduto": 1, "idEstabelecimento": 1 },
