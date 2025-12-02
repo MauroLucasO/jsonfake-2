@@ -1,5 +1,5 @@
 {
-  "produto": [
+  "produtos": [
     { "id": 1, "nome": "Açaí", "valor": "R$15,00", "descricao": "500ml", "nomeCategoria": "Sobremesas", "idCategoria": 1 },
     { "id": 2, "nome": "Pizza", "valor": "R$45,00", "descricao": "Tamanho Família", "nomeCategoria": "Lanches", "idCategoria": 2 },
     { "id": 3, "nome": "Cerveja", "valor": "R$9,00", "descricao": "Petra 1l", "nomeCategoria": "Bebidas", "idCategoria": 3 },
@@ -11,18 +11,18 @@
     { "id": 3, "data": "Nome3", "horas": "111111111", "valor": "R$2,00", "idItemPedido": 3, "idEstabelecimento": 3, "idCliente": 3 },
     { "id": 4, "data": "Nome4", "horas": "111111111", "valor": "R$0,75", "idItemPedido": 4, "idEstabelecimento": 4, "idCliente": 4 }
   ],
-  "itemPedido": [
+  "itemPedidos": [
     { "id": 1, "nome": "itemPedido1", "quantidade": "1", "valorTotal": "R$5,00", "idProduto": 1 },
     { "id": 2, "nome": "itemPedido2", "quantidade": "3", "valorTotal": "R$0,20", "idProduto": 2 },
     { "id": 3, "nome": "itemPedido3", "quantidade": "4", "valorTotal": "R$2,00", "idProduto": 3 },
     { "id": 4, "nome": "itemPedido4", "quantidade": "5", "valorTotal": "R$0,75", "idProduto": 4 }
   ],
-  "categoria": [
+  "categorias": [
     { "id": 1, "nome": "Sobremesas", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
     { "id": 2, "nome": "Lanches", "nomecategoria": "Produto2", "idEstabelecimento": 2 },
     { "id": 3, "nome": "Bebidas", "nomecategoria": "Produto3", "idEstabelecimento": 3 }
   ],
-  "estoque": [
+  "estoques": [
     { "id": 1, "nome": "Estoque1", "quantidade": "1", "idProduto": 1, "idEstabelecimento": 1 },
     { "id": 2, "nome": "Estoque2", "quantidade": "3", "idProduto": 1, "idEstabelecimento": 2 },
     { "id": 3, "nome": "Estoque3", "quantidade": "4", "idProduto": 1, "idEstabelecimento": 3 },
