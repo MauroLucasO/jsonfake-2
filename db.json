@@ -1,5 +1,5 @@
 {
-  "produtos": [
+  "produto": [
     { "id": 1, "nome": "Açaí", "valor": "R$15,00", "descricao": "500ml", "nomeCategoria": "Sobremesas", "idCategoria": 1 },
     { "id": 2, "nome": "Pizza", "valor": "R$45,00", "descricao": "Tamanho Família", "nomeCategoria": "Lanches", "idCategoria": 2 },
     { "id": 3, "nome": "Cerveja", "valor": "R$9,00", "descricao": "Petra 1l", "nomeCategoria": "Bebidas", "idCategoria": 3 },
