@@ -12,10 +12,10 @@
     { "id": 4, "data": "Nome4", "horas": "111111111", "valor": "R$0,75", "idItemPedido": 4, "idEstabelecimento": 4, "idCliente": 4 }
   ],
   "itemPedidos": [
-    { "id": 1, "nome": "itemPedido1", "quantidade": "1", "valorTotal": "R$5,00", "idProduto": 1 },
-    { "id": 2, "nome": "itemPedido2", "quantidade": "3", "valorTotal": "R$0,20", "idProduto": 2 },
-    { "id": 3, "nome": "itemPedido3", "quantidade": "4", "valorTotal": "R$2,00", "idProduto": 3 },
-    { "id": 4, "nome": "itemPedido4", "quantidade": "5", "valorTotal": "R$0,75", "idProduto": 4 }
+    { "id": 1, "nome": "itemPedido1", "quantidade": "1", "valorTotal": "R$15,00", "idProduto": 1 },
+    { "id": 2, "nome": "itemPedido2", "quantidade": "3", "valorTotal": "R$135,00", "idProduto": 2 },
+    { "id": 3, "nome": "itemPedido3", "quantidade": "4", "valorTotal": "R$36,00", "idProduto": 3 },
+    { "id": 4, "nome": "itemPedido4", "quantidade": "5", "valorTotal": "R$42,50", "idProduto": 4 }
   ],
   "categorias": [
     { "id": 1, "nome": "Sobremesas", "nomecategoria": "Produto1", "idEstabelecimento": 1 },
